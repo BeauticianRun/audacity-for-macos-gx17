@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Audacity for macOS lut with Audacity for macOS exclusive LUT: chromatic-aberration-fix & color-correction. Featuring chromatic-aberration-fix and
 
 
 
